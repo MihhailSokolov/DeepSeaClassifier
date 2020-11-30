@@ -7,6 +7,8 @@ This can save a lot of human labor for those who have to analyze tens of hours o
 A data set used for training and testing the classifier consisted of 40000 frames extracted from the video footage of Ocean Exploration
 Trust’s Nautilus Exploration Program Cruise NA095 and NA101 which took place in Cascadia Margin and Papah¯anaumoku¯akea Marine National Monument respectively.
 
+**The data set along with everything in this repository can be downloaded from [here](https://1drv.ms/u/s!AsQgIUPpz0Thl0ByAukM0EukzqsD?e=iyDrr4)**
+
 # Approach
 
 ## Simple Convolutional Neural Network
